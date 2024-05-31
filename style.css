@@ -1,31 +1,29 @@
 body {
     margin: 0px;
     padding: 0px;
+    overflow-x: hidden;
 }
 
 .container {
-    width: 1364px;
-    height: 600px;
-    display: inline-block;
-    position: absolute;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0px;
-    padding: 0px;
+    position: relative;
+    width: 100%;
+    height: 900px;
     border: 1px solid #4f4f4f;
+    margin-top: -103px;
 }
 
 .container img {
+    display: block;
+    position: absolute;
     width: 100%;
     height: 100%;
-    display: block;
 }
 
-.text-block {
+/*.text-block {
     width: auto;
 }
-
-.text-block h1 {
+*/
+/*.text-block h1 {
     display: flex;
     position: absolute;
     bottom: 255px;
@@ -34,8 +32,8 @@ body {
     color: #fff;
     font-family: YALBszUSD-E-0;
 }
-
-.circle-arrow {
+*/
+/*.circle-arrow {
     width: 50px;
     height: 50px;
     border: 2px solid green;
@@ -47,8 +45,8 @@ body {
     bottom: 113px;
     left: 652px;
 }
-
-.circle-arrow::after {
+*/
+/*.circle-arrow::after {
     content: '';
     width: 2px;
     height: 25px;
@@ -56,8 +54,8 @@ body {
     position: absolute;
     top: 20px;
 }
-
-.circle-arrow::before {
+*/
+/*.circle-arrow::before {
     content: '';
     width: 0;
     height: 0;
@@ -67,8 +65,8 @@ body {
     position: absolute;
     top: 35px;
 }
-
-.rectangle1 {
+*/
+/*.rectangle1 {
     width: 200px;
     height: 150px;
     border: 1px solid green;
@@ -85,7 +83,6 @@ body {
     border: 1px solid black;
     background-color: #fff;
     position: absolute;
-    display: flex;
     bottom: 266px;
     right: 480px;
 }
@@ -118,7 +115,7 @@ body {
     bottom: 0px;
     left: 1px;
 }
-
+*/
 
 
 

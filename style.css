@@ -1038,7 +1038,6 @@ body {
 .guarantee {
     width: 100%;
     height: 825px;
-    border: 1px solid #34571e;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1090,59 +1089,130 @@ body {
 
 .contacts {
     width: 100%;
-    height: 825px;
-    border: 1px solid #34571e;
+    height: 761px;
     background-color: #dcf4ce;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .homework-image {
-    width: 49%;
-    height: 825px;
-    border: 1px solid #34571e;
+    width: 663px;
+    height: 761px;
+    position: relative;
+    right: 0.1px; 
+    background-image: url(./images/510b186b476f18748e0024e66742c923.png);
+    background-repeat: no-repeat;
+    background-size: 674px;
+    background-position: right;
+    background-position-x: -1px;
+    background-position-y: -18px;
 }
 .contact-area {
-    width: 51%;
-    height: 825px;
-    border: 1px solid #34571e;
+    width: 694px;
+    height: 761px;
+    position: relative;
+    left: 1px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
+
+.contact-area p {
+    position: relative;
+    right: 110px;
+    bottom: 100px;
+    font-size: 25px;
+}
+
 .circle-logo {
+    width: 121px;
+    height: 127px;
+    position: relative;
+    bottom: 124px;
+    right: 199px;
+    border-radius: 70px;
+    background-color: #b6d890;
+    background-image: url(./images/91a445584c87ae3f2b888f7f5019fa8f.png);
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position-x: 17px;
+    background-position-y: 27px;
 }
 .head {
+    position: relative;
+    right: 77px;
+    bottom: 100px;
+    font-size: 34px;
+    color: #347571;
 }
 .footer {
+    position: relative;
+    right: 30px;
+    top: 91px;
+    font-size: 34px;
+    color: #007785;
 }
 .social-icons {
     width: 163px;
     height: 71px;
-    border: 1px solid #34571e;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-    top: 207px;
-    right: 149px;
+    top: 89px;
+    right: 170px;
 }
 .instagram {
     width: 28px;
     height: 28px;
-    border: 1px solid #34571e;
     position: relative;
     right: 40px;
+    background-image: url(./images/bfa06da1bb8b8e40998fd27e466ed151.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .facebook {
     width: 29px;
     height: 29px;
-    border: 1px solid #34571e;
     position: absolute;
+    background-image: url(./images/664b417d9a963291f08ebeda4b9b14bd.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: 7px;
 }
 .youtube {
-    width: 29px;
+    width: 32px;
     height: 29px;
-    border: 1px solid #34571e;
     position: relative;
     left: 40px;
+    background-image: url(./images/e7d8d5aea58e363f1200846e0de6bfc5.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fixed-block {
+    width: 200px;
+    height: 100px;
+    position: fixed;
+    top: 470px;
+    left: 1150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.help-btn {
+    position: relative;
+    background-color: #fff;
+    width: 80px;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 20px;
+    top: 3px;
+    right: 10px;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
 }

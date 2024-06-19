@@ -975,4 +975,16 @@ body {
     width: 60px;
     height: 60px;
     border-radius: 50%;
+    background-color: #e7f8e7;
+    background-image: url(./images/speech-bubble.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position-x: center;
+    background-position-y: center;
+    transition: background-image 0.3 ease;
+}
+.icon:hover {
+    background-image: url(./images/draw.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
 }

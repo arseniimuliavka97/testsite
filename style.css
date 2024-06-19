@@ -27,6 +27,7 @@
     --fnt-size3: 25px;
     --fnt-size4: 50px;
     --ftn-size5: 31px;
+    --ftn-size6: 40px;
     --btm: 60px;
     --btm1: 640px;
     --btm2: 20px;
@@ -581,7 +582,7 @@ body {
     position: relative;
     text-align: center;
     color: var(--text-color1);
-    font-size: 40px;
+    font-size: var(--ftn-size6);
 }
 .svg1 h3 {
     position: absolute;
@@ -619,13 +620,13 @@ body {
     text-align: center;
     color: var(--text-color1);
     bottom: 120px;
-    font-size: 40px;
+    font-size: var(--ftn-size6);
 }
 .choice-exam p {
     position: relative;
     text-align: center;
     color: var(--text-color1);
-    font-size: 40px;
+    font-size: var(--ftn-size6);
     bottom: 150px;
 }
 
@@ -784,7 +785,7 @@ body {
     position: relative;
     bottom: var(--btm6);
     left: var(--l3);
-    font-size: 40px;
+    font-size: var(--ftn-size6);
 }
 .comprehensive p strong {
     color: #39b54a;
@@ -909,7 +910,7 @@ body {
     background-position-y: -1px;
     position: relative;
     top: 33px;
-    font-size: 40px;
+    font-size: var(--ftn-size6);
     font-weight: var(--fnt-weight);
     color: var(--text-color2);
     font-family: var(--fnt-family);

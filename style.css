@@ -738,7 +738,7 @@ body {
     left: 50px;
 }
 .png-store-block {
-    width: var(--r1);
+    width: var(--w1);
     height: 169px;
     background-image: url(./images/36bb8215cbbb15ef056d7ff4f91fdaed.png);
     position: relative;

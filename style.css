@@ -82,7 +82,6 @@ body {
 .button-rectangle {
     width: 297px;
     height: 70px;
-    border: 1px solid var(--text-color);
 }
 .line {
     width: var(--w5);
@@ -393,10 +392,12 @@ body {
     position: relative;
     bottom: var(--btm3);
     left: 850px;
+    bottom: 80px;
     width: 303px;
     height: 78px;
-    font-size: var(--fnt-size2);
-    font-weight: var(--fnt-weight);
+    display: grid;
+    justify-items: center;
+    align-content: center;
 }
 .button-rectangle-1 {
     position: relative;
@@ -407,13 +408,17 @@ body {
 .button-rectangle-2 {
     position: relative;
     bottom: 75px;
-    right: 9px;
+    right: 11px;
     background-color: var(--color1);
+    text-align: center;
 }
 .button-rectangle-2 p {
     position: relative;
     left: 5px;
-    bottom: 5px;
+    bottom: 12px;
+    font-size: var(--fnt-size2);
+    font-weight: var(--fnt-weight);
+    font-family: var(--fnt-family);
 }
 
 .why-us {

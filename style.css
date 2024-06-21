@@ -636,11 +636,12 @@ body {
 .circle-reviews {
     position: relative;
     height: var(--hgt5);
-    background-color:var(--bg-color);
+    background: var(--bg-color);
     top: 24px;
     display: grid;
     justify-content: center;
     align-items: center;
+    clip-path: ellipse(100% 100% at 50% 100%);
 }
 .circle-reviews-header {
     text-align: center;

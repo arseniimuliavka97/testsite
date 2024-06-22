@@ -60,7 +60,7 @@
     --l3: 350px;
     --bg-size: 190px;
     --bg-size1: 450px;
-    --li-img: url(./images/bd833bb8554e0b2fa398d56fae7901af.svg);
+    --li-img: url(./images/bd833bb8554e0b2fa398d56fae7901af.png);
 }
 
 body {
@@ -103,7 +103,7 @@ body {
 }
 .svg1 {
     position: relative;
-    background-image: url(./images/45da23110fc5e62a392e62ee2d50ec9d.svg);
+    background-image: url(./images/45da23110fc5e62a392e62ee2d50ec9d.png);
     background-repeat: no-repeat;
     background-size: 350px;
     width: 373px;
@@ -114,7 +114,7 @@ body {
 }
 .svg2 {
     position: relative;
-    background-image: url(./images/b40fcc66579d1e7708909ad24c6ea89e.svg);
+    background-image: url(./images/b40fcc66579d1e7708909ad24c6ea89e.png);
     background-repeat: no-repeat;
     background-size: 290px;
     width: 306px;
@@ -511,7 +511,7 @@ body {
 
 .svg-block1 {
     position: relative;
-    background-image: url(./images/c7255edd86875178db0b5d5f3ccb8444.svg);
+    background-image: url(./images/c7255edd86875178db0b5d5f3ccb8444.png);
     top: 40px;
 }
 .list1 {
@@ -529,7 +529,7 @@ body {
 }
 .svg-block2 {
     position: relative;
-    background-image: url(./images/8dee826c6bca860f32cbee5a78e798e3.svg);
+    background-image: url(./images/8dee826c6bca860f32cbee5a78e798e3.png);
     top: 35px;
 }
 .list2 {
@@ -559,7 +559,7 @@ body {
 }
 .check-block {
     position: relative;
-    background-image: url(./images/502d2ce9e955f1db83c82fd4a58e997b.svg);
+    background-image: url(./images/502d2ce9e955f1db83c82fd4a58e997b.png);
     background-repeat: no-repeat;
     background-size: 70px;
     width: 70px;
@@ -575,7 +575,7 @@ body {
 }
 .svg-block3 {
     position: relative;
-    background-image: url(./images/f569a0542755ca6af36c6414a322dd47.svg);
+    background-image: url(./images/f569a0542755ca6af36c6414a322dd47.png);
     background-repeat: no-repeat;
     background-size: 200px;
     width: 216px;
@@ -679,7 +679,7 @@ body {
 .svg-review-1 {
     width: var(--w3);
     height: var(--hgt6);
-    background-image: url(./images/48ff8574284260c656e8c1b228af8eb6.svg);
+    background-image: url(./images/48ff8574284260c656e8c1b228af8eb6.png);
     background-size: var(--bg-size);
 }
 .review-2 {
@@ -689,14 +689,14 @@ body {
     position: relative;
     width: 308px;
     height: 59px;
-    background-image: url(./images/bd92933e7cfda5193da07c818c4a6406.svg);
+    background-image: url(./images/bd92933e7cfda5193da07c818c4a6406.png);
     background-size: 300px;
     bottom: 10px;
 }
 .svg-review-3 {
     width: var(--w3);
     height: var(--hgt6);
-    background-image: url(./images/11c78caa7961dd1bc87e7fa66b7e2ce8.svg);
+    background-image: url(./images/11c78caa7961dd1bc87e7fa66b7e2ce8.png);
     background-size: var(--bg-size);
 }
 .review-3 {
@@ -830,7 +830,7 @@ body {
     left: 6px;
 }
 .price ul li:nth-child(1)::before {
-    background-image: url(./images/7afff20bc4eb69c08ab37e4b96fcb370.svg);
+    background-image: url(./images/7afff20bc4eb69c08ab37e4b96fcb370.png);
 }
 .price ul li:nth-child(2)::before {
     background-image: var(--li-img);
@@ -909,7 +909,7 @@ body {
     width: 342px;
     height: 79px;
     border-radius: 40px;
-    background-image: url(./images/63610463a85b42cb0ed10fab05d7a15c.svg);
+    background-image: url(./images/63610463a85b42cb0ed10fab05d7a15c.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: 1px;
@@ -1005,7 +1005,7 @@ body {
     height: 28px;
     position: relative;
     right: var(--r);
-    background-image: url(./images/bfa06da1bb8b8e40998fd27e466ed151.svg);
+    background-image: url(./images/bfa06da1bb8b8e40998fd27e466ed151.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -1013,7 +1013,7 @@ body {
     width: 29px;
     height: var(--hgt9);
     position: relative;
-    background-image: url(./images/664b417d9a963291f08ebeda4b9b14bd.svg);
+    background-image: url(./images/664b417d9a963291f08ebeda4b9b14bd.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: 7px;
@@ -1023,7 +1023,7 @@ body {
     height: var(--hgt9);
     position: relative;
     left: 20px;
-    background-image: url(./images/e7d8d5aea58e363f1200846e0de6bfc5.svg);
+    background-image: url(./images/e7d8d5aea58e363f1200846e0de6bfc5.png);
     background-repeat: no-repeat;
     background-size: cover;
 }

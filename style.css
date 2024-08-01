@@ -840,7 +840,7 @@ body {
     position: relative;
     top: var(--t5);
 }
-.amswer-explanation-image-block {
+.answer-explanation-image-block {
     height: 349px;
     background-image: url(./images/8da3c65fedfac51189a7a7d13e973d3b.png);
     position: relative;

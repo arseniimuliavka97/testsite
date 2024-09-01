@@ -57,8 +57,8 @@
     --r: 20px;
     --r1: 30px;
     --r2: 260px;
-    --r3: 50px;
-    --r4: 95px;
+    --r3: 40px;
+    --r4: 85px;
     --r5: 220px;
     --w: 60px;
     --w1: 250px;
@@ -441,7 +441,6 @@ body {
 }
 .btn {
     position: relative;
-    bottom: var(--btm3);
     left: 850px;
     bottom: 68px;
     width: 303px;
@@ -470,12 +469,6 @@ body {
     font-weight: var(--fnt-weight);
     font-family: var(--fnt-family3);
     color: var(--text-color1);
-}
-.button-rectangle-2 p {
-    position: relative;
-    left: 5px;
-    bottom: 12px;
-    
 }
 
 .why-us {
@@ -1048,7 +1041,7 @@ body {
     right: 199px;
     border-radius: 70px;
     background-color: #b6d890;
-    background-image: url(./images/91a445584c87ae3f2b888f7f5019fa8f.png);
+    background-image: url(./images/662359f055a62dae41b505503ce2d6f3.png);
     background-repeat: no-repeat;
     background-size: var(--bg-size1);
     background-position-x: 17px;
